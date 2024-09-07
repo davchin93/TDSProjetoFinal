@@ -1,0 +1,35 @@
+version: "3.8"
+
+services:
+
+  postgres:
+    image: postgres:13
+    container_name: zeorganize_db
+    environment:
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: zeorganize_db
+    ports:
+      - "5432:5432"
+    volumes:
+      - zeorganize_volume:/var/lib/postgresql/data
+
+  webapi:
+    build: ./ZeOrganizeBack
+    container_name: zeorganize_webapi
+    ports:
+      - "8000:8000"
+    depends_on:
+      - postgres
+
+  zeorganizefront:
+    build: ./ZeOrganizeFront
+    container_name: zeorganize_frontend
+    ports:
+      - "5293:5293"
+    depends_on:
+      - webapi
+    volumes:
+      - ./ZeOrganizeFront:/app
+
+volumes:
+  zeorganize_volume:

@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "hALGjLjgzwnYNAqfLjxIJ3G1yeIPXp2B6dxVGkBQ4ps=",
+  "Source": "ZeOrganizeFront",
+  "BasePath": "_content/ZeOrganizeFront",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ZeOrganizeFront\\wwwroot",
+      "Source": "ZeOrganizeFront",
+      "ContentRoot": "C:\\Users\\davch\\Codigos\\TDSProjetoFinal\\zeorganizefront\\wwwroot\\",
+      "BasePath": "_content/ZeOrganizeFront",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\davch\\Codigos\\TDSProjetoFinal\\zeorganizefront\\wwwroot\\images\\favicon.ico",
+      "SourceId": "ZeOrganizeFront",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\davch\\Codigos\\TDSProjetoFinal\\zeorganizefront\\wwwroot\\",
+      "BasePath": "_content/ZeOrganizeFront",
+      "RelativePath": "images/favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\favicon.ico"
+    }
+  ]
+}

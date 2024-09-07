@@ -1,0 +1,119 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ZeOrganizeFront
+build_property.RootNamespace = ZeOrganizeFront
+build_property.ProjectDir = /app/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /app
+build_property._RazorSourceGeneratorDebug = 
+
+[/app/Pages/Activities/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWN0aXZpdGllcy9BZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/app/Pages/Activities/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWN0aXZpdGllcy9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/app/Pages/Activities/Remove.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWN0aXZpdGllcy9SZW1vdmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/app/Pages/Calendar/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2FsZW5kYXIvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/app/Pages/Events/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXZlbnRzL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/app/Pages/Events/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXZlbnRzL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/app/Pages/Events/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXZlbnRzL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/app/Pages/Events/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXZlbnRzL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/app/Pages/Events/Remove.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXZlbnRzL1JlbW92ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/app/Pages/Guests/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvR3Vlc3RzL0FkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/app/Pages/Guests/Remove.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvR3Vlc3RzL1JlbW92ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/app/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/app/Pages/Schedules/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2NoZWR1bGVzL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/app/Pages/Schedules/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2NoZWR1bGVzL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/app/Pages/Schedules/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2NoZWR1bGVzL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/app/Pages/Schedules/Remove.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2NoZWR1bGVzL1JlbW92ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/app/Pages/Shared/_MainLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19NYWluTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/app/Pages/Shared/_MenuPartialPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19NZW51UGFydGlhbFBhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/app/Pages/Shared/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/app/Pages/User/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVXNlci9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/app/Pages/User/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVXNlci9Mb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/app/Pages/User/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVXNlci9Qcm9maWxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/app/Pages/User/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVXNlci9SZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/app/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/app/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

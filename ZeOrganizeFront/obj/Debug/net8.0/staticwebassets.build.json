@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "UCQblG8nRanHIVCy7qaM9Xnz4mM9Wx8Vfh91BpgCQKk=",
+  "Source": "ZeOrganizeFront",
+  "BasePath": "_content/ZeOrganizeFront",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ZeOrganizeFront/wwwroot",
+      "Source": "ZeOrganizeFront",
+      "ContentRoot": "/app/wwwroot/",
+      "BasePath": "_content/ZeOrganizeFront",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/app/wwwroot/images/favicon.ico",
+      "SourceId": "ZeOrganizeFront",
+      "SourceType": "Discovered",
+      "ContentRoot": "/app/wwwroot/",
+      "BasePath": "_content/ZeOrganizeFront",
+      "RelativePath": "images/favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/favicon.ico"
+    }
+  ]
+}
