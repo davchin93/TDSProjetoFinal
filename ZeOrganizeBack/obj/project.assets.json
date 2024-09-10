@@ -1207,9 +1207,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\davch\\Codigos\\TDSProjetoFinal\\ZeOrganizeBack\\ZeOrganizeFront.csproj",
-      "projectName": "ZeOrganizeFront",
-      "projectPath": "C:\\Users\\davch\\Codigos\\TDSProjetoFinal\\ZeOrganizeBack\\ZeOrganizeFront.csproj",
+      "projectUniqueName": "C:\\Users\\davch\\Codigos\\TDSProjetoFinal\\ZeOrganizeBack\\ZeOrganizeBack.csproj",
+      "projectName": "ZeOrganizeBack",
+      "projectPath": "C:\\Users\\davch\\Codigos\\TDSProjetoFinal\\ZeOrganizeBack\\ZeOrganizeBack.csproj",
       "packagesPath": "C:\\Users\\davch\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\davch\\Codigos\\TDSProjetoFinal\\ZeOrganizeBack\\obj\\",
       "projectStyle": "PackageReference",

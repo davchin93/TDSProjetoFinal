@@ -1,9 +1,6 @@
 ﻿@inject IHttpContextAccessor HttpContextAccessor
 @{
     var httpContext = HttpContextAccessor.HttpContext!;
-
-    var month = DateTime.Now.Month;
-    var year = DateTime.Now.Year;
 }
 <style>
     .navbar {
@@ -56,9 +53,6 @@
             </li>
             <li class="nav-item">
                 <a asp-page="/Schedules/Index" class="nav-link">Cronogramas</a>
-            </li>
-            <li class="nav-item">
-                <a asp-page="/Calendar/Index" asp-route-month="@month" asp-route-year="@year" class="nav-link">Calendário</a>
             </li>
         </ul>
         <ul class="navbar-nav">

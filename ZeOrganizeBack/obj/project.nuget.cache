@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lkvM6r+BjKs=",
+  "dgSpecHash": "9vHXc0du5L8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\davch\\Codigos\\TDSProjetoFinal\\zeorganizeback\\ZeOrganizeFront.csproj",
+  "projectFilePath": "C:\\Users\\davch\\Codigos\\TDSProjetoFinal\\ZeOrganizeBack\\ZeOrganizeBack.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\davch\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\davch\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.5\\microsoft.entityframeworkcore.7.0.5.nupkg.sha512",

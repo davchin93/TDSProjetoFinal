@@ -1,12 +1,16 @@
 ﻿@page  "/Profile"
 @model ZeOrganizeFront.Pages.User.Profile
 @{
-    ViewData["Title"] = "Planejaí - Perfil do Usuário";
+    ViewData["Title"] = "ZeOrganize - Perfil do Usuário";
 }
 
 <style>
     body {
-        background-color: #e9ecef;
+        background-color: #e9ecef; 
+        background-image: url('/images/123.jpg'); /* Defina o caminho da imagem de fundo aqui */
+        background-size: cover;
+        background-position: center;
+        opacity: 1; /* Ajuste a opacidade do fundo */
     }
 
     .wrapper {
@@ -69,7 +73,7 @@
     <div class="profile-container">
         <h2 class="text-center">Perfil do usuário</h2>
         <div class="profile-content">
-            <img src="https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436178.jpg?w=740&t=st=1687185747~exp=1687186347~hmac=ccfe212aade382894dbc86b8981456784b795ee9bc90b0f5fb577e0a1730aff1" />
+            <img src="/images/profile.jpg" />
             <div class="user-data">
                 <p><strong>Nome:</strong> @Model.ExistingUser!.Name @Model.ExistingUser!.LastName</p>
                 <p><strong>E-mail:</strong> @Model.ExistingUser!.Email</p>

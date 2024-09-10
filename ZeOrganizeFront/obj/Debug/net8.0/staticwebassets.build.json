@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "UCQblG8nRanHIVCy7qaM9Xnz4mM9Wx8Vfh91BpgCQKk=",
+  "Hash": "ME7nsD8v6iHUa3qwoRQWFiBVT1zDyEXG0G6glPAdltQ=",
   "Source": "ZeOrganizeFront",
   "BasePath": "_content/ZeOrganizeFront",
   "Mode": "Default",
@@ -16,6 +16,25 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "/app/wwwroot/images/123.jpg",
+      "SourceId": "ZeOrganizeFront",
+      "SourceType": "Discovered",
+      "ContentRoot": "/app/wwwroot/",
+      "BasePath": "_content/ZeOrganizeFront",
+      "RelativePath": "images/123.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/123.jpg"
+    },
     {
       "Identity": "/app/wwwroot/images/favicon.ico",
       "SourceId": "ZeOrganizeFront",
@@ -34,6 +53,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/images/favicon.ico"
+    },
+    {
+      "Identity": "/app/wwwroot/images/profile.jpg",
+      "SourceId": "ZeOrganizeFront",
+      "SourceType": "Discovered",
+      "ContentRoot": "/app/wwwroot/",
+      "BasePath": "_content/ZeOrganizeFront",
+      "RelativePath": "images/profile.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/profile.jpg"
     }
   ]
 }

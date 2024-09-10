@@ -1,13 +1,17 @@
 ﻿@page "{id:int}"
 @model ZeOrganizeFront.Pages.Events.Details
 @{
-    ViewData["Title"] = $"Planejaí - {Model.Event!.Name}";
+    ViewData["Title"] = $"ZeOrganize - {Model.Event!.Name}";
     var imageURL = "https://th.bing.com/th/id/R.3e77a1db6bb25f0feb27c95e05a7bc57?rik=DswMYVRRQEHbjQ&riu=http%3a%2f%2fwww.coalitionrc.com%2fwp-content%2fuploads%2f2017%2f01%2fplaceholder.jpg&ehk=AbGRPPcgHhziWn1sygs8UIL6XIb1HLfHjgPyljdQrDY%3d&risl=&pid=ImgRaw&r=0";
 }
 
 <style>
     body {
-        background-color: #e9ecef;
+        background-color: #e9ecef; 
+        background-image: url('/images/123.jpg'); /* Defina o caminho da imagem de fundo aqui */
+        background-size: cover;
+        background-position: center;
+        opacity: 1; /* Ajuste a opacidade do fundo */
     }
 
     .wrapper {

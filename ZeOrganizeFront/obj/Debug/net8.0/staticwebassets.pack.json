@@ -1,8 +1,16 @@
 {
   "Files": [
     {
+      "Id": "/app/wwwroot/images/123.jpg",
+      "PackagePath": "staticwebassets/images/123.jpg"
+    },
+    {
       "Id": "/app/wwwroot/images/favicon.ico",
       "PackagePath": "staticwebassets/images/favicon.ico"
+    },
+    {
+      "Id": "/app/wwwroot/images/profile.jpg",
+      "PackagePath": "staticwebassets/images/profile.jpg"
     },
     {
       "Id": "obj/Debug/net8.0/staticwebassets/msbuild.ZeOrganizeFront.Microsoft.AspNetCore.StaticWebAssets.props",
